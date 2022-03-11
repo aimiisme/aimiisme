@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aimiisme
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Website Project
+- 💞️ I’m looking to collaborate on Website Project to improve my skill as a Web Developer
 - 📫 How to reach me:
 Discord: Aimi#9326
 
