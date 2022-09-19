@@ -1,4 +1,4 @@
-## Hi, I’m Aimi 👋👩‍💻
+# Hi, I’m Aimi 👋👩‍💻
 
 ### Bio
 - 👩‍💻 I’m a 3rd year Computer Science student @KSU 🦉
