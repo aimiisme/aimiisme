@@ -1,9 +1,8 @@
 # Hi, I’m Aimi 👋👩‍💻
 
 ### Bio
-- 👩‍💻 I’m a 3rd year Computer Science student @KSU 🦉
+- 👩‍💻 I’m a 4th year Computer Science student @KSU 🦉
 - 💞️ I love designing and developing websites and software applications
-- 📝 Checkout my [Resume](https://github.com/aimiisme/aimiisme/files/9595601/AimiTran.Resume.pdf)
 
 
 ### My Current Stack
