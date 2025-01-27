@@ -1,8 +1,8 @@
 # Hi, I’m Aimi 👋👩‍💻
 
 ### Bio
-- 👩‍💻 Bachelor of Science in Computer Science student @KSU 🦉
 - 👩‍💻 Software Engineer at Avanade Inc. (Microsoft and Accenture join venture)
+- 🦉 Bachelor of Science in Computer Science - SummaCumLaude @KSU 
 - 💞️ I love designing and developing websites and software applications
 
 
